@@ -2,6 +2,7 @@
 This is responsive simple porfolio template based on Material Design.
 
 #Structure
+```
  Site/
   |--css/
   |  |--materialize.css
@@ -14,7 +15,7 @@ This is responsive simple porfolio template based on Material Design.
   |
   |--advance.html
   |--basic.html
-
+```
 
 #Contribution
 This project started as fun learning. Any can contribute to this project by simply submitting Pull Requests.
