@@ -2,9 +2,9 @@
 This is responsive simple porfolio template based on Material Design.
 
 #Demo
-Basic: https://savankoradia.github.io/portfolio-materialize/basic.html <br>
 
-Advance: https://savankoradia.github.io/portfolio-materialize/advance.html
+<a href='https://savankoradia.github.io/portfolio-materialize/basic.html'>Basic</a> <br>
+<a href='https://savankoradia.github.io/portfolio-materialize/advance.html'>Advance</a>
 
 #Structure
 ```
